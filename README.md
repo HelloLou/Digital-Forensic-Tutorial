@@ -48,6 +48,11 @@ On va découper en plusieurs catégories pour aller à l’essentiel.
     - Communication avec un serveur externe suspect
     - Téléchargement de malwares
     - Extraction de mots de passe en clair (`HTTP`, `FTP`, `Telnet`)
+ 
+### 5️⃣ **Exemple rapport Digital Forensic**
+
+- **PDF** : `Rapport Digital Forensic`
+
 
 ---
 
