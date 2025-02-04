@@ -17,7 +17,7 @@ Ton but en forensic :
 On va découper en plusieurs catégories pour aller à l’essentiel.
 
 ### 1️⃣ **Analyse de Disque et Récupération de Fichiers** 
-(DigitalForensic-FR/Partie1-Analyse-de-disque.md)
+[Partie1](DigitalForensic-FR/Partie1-Analyse-de-disque.md)
 
 - **Outils** : `Autopsy`, `Sleuth Kit`, `FTK Imager`, `testdisk`
 - **Ce que tu cherches** :
@@ -26,7 +26,7 @@ On va découper en plusieurs catégories pour aller à l’essentiel.
     - Partition suspecte ou cachée
 
 ### 2️⃣ **Analyse de la Mémoire Vive (RAM)**
-(DigitalForensic-FR/Partie2-Analyse-de-memoire.md)
+[Partie2](DigitalForensic-FR/Partie2-Analyse-de-memoire.md)
 
 - **Outils** : `Volatility` (le plus utilisé)
 - **Ce que tu cherches** :
@@ -36,7 +36,7 @@ On va découper en plusieurs catégories pour aller à l’essentiel.
     - Fichiers et malwares injectés dans la mémoire
 
 ### 3️⃣ **Analyse des Logs et Événements Windows/Linux**
-(DigitalForensic-FR/Partie3-Analyse-de-log.md)
+[Partie3](DigitalForensic-FR/Partie3-Analyse-de-log.md)
 
 - **Outils** : `Event Viewer` (Windows), `log2timeline`, `Plaso`, `grep`
 - **Ce que tu cherches** :
@@ -45,7 +45,7 @@ On va découper en plusieurs catégories pour aller à l’essentiel.
     - Exécution de commandes malveillantes
 
 ### 4️⃣ **Analyse Réseau et Fichiers PCAP**
-(DigitalForensic-FR/Partie4-Analyse-reseau.md)
+[Partie4](DigitalForensic-FR/Partie4-Analyse-reseau.md)
 
 - **Outils** : `Wireshark`, `NetworkMiner`
 - **Ce que tu cherches** :
@@ -54,7 +54,7 @@ On va découper en plusieurs catégories pour aller à l’essentiel.
     - Extraction de mots de passe en clair (`HTTP`, `FTP`, `Telnet`)
  
 ### 5️⃣ **Exemple rapport Digital Forensic**
-(DigitalForensic-FR/Rapport-Digital-Forensic.pdf)
+[Partie5](DigitalForensic-FR/Rapport-Digital-Forensic.pdf)
 
 - **PDF** : `Rapport Digital Forensic`
 
